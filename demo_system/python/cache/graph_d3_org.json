@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "mode": "org",
+    "total_nodes": 14,
+    "total_links": 19,
+    "nodes_by_type": {
+      "person": 12,
+      "team": 2
+    },
+    "links_by_rel": {
+      "LEADS": 2,
+      "REPORTS_TO": 5,
+      "MANAGES": 5,
+      "MEMBER_OF": 7
+    }
+  },
+  "nodes": [
+    {
+      "id": "person:Sean",
+      "label": "Sean",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "Project Lead",
+        "employment_type": "staff",
+        "team": "nop_project",
+        "contact": "sean.lead@tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Dr. Aris",
+      "label": "Dr. Aris",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "External Statistical Consultant",
+        "employment_type": "contractor",
+        "team": "nop_project",
+        "contact": "aris.consultant@ext.tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Stephen",
+      "label": "Stephen",
+      "type": "person",
+      "group": 1,
+      "size": 18,
+      "meta": {
+        "title": "Internal Auditor, IAD",
+        "employment_type": "staff",
+        "team": "",
+        "contact": "stephen.audit@tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Marc",
+      "label": "Marc",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "Director, Transportation Safety Programs",
+        "employment_type": "staff",
+        "team": "",
+        "contact": "marc.dir@tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Carolyn",
+      "label": "Carolyn",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "Data Management Manager",
+        "employment_type": "staff",
+        "team": "data_technical",
+        "contact": "carolyn.mgr@tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Judy",
+      "label": "Judy",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "title": "",
+        "employment_type": "",
+        "team": "",
+        "contact": ""
+      }
+    },
+    {
+      "id": "person:Dr. L. Henderson",
+      "label": "Dr. L. Henderson",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "title": "",
+        "employment_type": "",
+        "team": "",
+        "contact": ""
+      }
+    },
+    {
+      "id": "person:Roger",
+      "label": "Roger",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "Senior Analyst, QA",
+        "employment_type": "staff",
+        "team": "data_technical",
+        "contact": "roger.sr@tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Jason Hao",
+      "label": "Jason Hao",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "Technical Lead & Senior SAS Developer",
+        "employment_type": "staff",
+        "team": "data_technical",
+        "contact": "jason.hao@tc.gc.ca"
+      }
+    },
+    {
+      "id": "person:Luc Trudel",
+      "label": "Luc Trudel",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "title": "",
+        "employment_type": "",
+        "team": "",
+        "contact": ""
+      }
+    },
+    {
+      "id": "person:Vicky",
+      "label": "Vicky",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "title": "",
+        "employment_type": "",
+        "team": "",
+        "contact": ""
+      }
+    },
+    {
+      "id": "person:Dave",
+      "label": "Dave",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "title": "Regional Inspector, Pacific Region",
+        "employment_type": "staff",
+        "team": "nop_project",
+        "contact": "dave.inspector@tc.gc.ca"
+      }
+    },
+    {
+      "id": "team:nop_project",
+      "label": "NOP Risk Model Project Team",
+      "type": "team",
+      "group": 5,
+      "size": 12,
+      "meta": {
+        "goal": "Modernize the dangerous goods site inspection risk scoring model to improve detection rates, reduce false negatives, and maintain budget neutrality through the STRL-2026 streamlining filter.",
+        "description": "Cross-functional team responsible for the 2026-27 modernization of the National Occupational Profile (NOP) risk model used to prioritize dangerous goods site inspections across Canada. The team rebuilt the model from a failing 2015 baseline (14% false negative rate) to a fully compliant, audited production system.",
+        "lead": "Sean"
+      }
+    },
+    {
+      "id": "team:data_technical",
+      "label": "Data & Technical Sub-team",
+      "type": "team",
+      "group": 5,
+      "size": 8,
+      "meta": {
+        "goal": "Own TDG_CORE database integrity, SAS model implementation, and all data governance for the risk model.",
+        "description": "Responsible for data quality, model coding, and technical validation. This sub-team identified and remediated the 1900-01-01 legacy data decay issue affecting 11,240 records, produced the production SAS model, and ran UAT parallel validation before go-live.",
+        "lead": "Carolyn"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "person:Sean",
+      "target": "team:nop_project",
+      "rel": "LEADS",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "person:Marc",
+      "rel": "REPORTS_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "person:Jason Hao",
+      "rel": "MANAGES",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "person:Carolyn",
+      "rel": "MANAGES",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "person:Dave",
+      "rel": "MANAGES",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "team:nop_project",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "person:Sean",
+      "rel": "MANAGES",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "team:nop_project",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "team:data_technical",
+      "rel": "LEADS",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "person:Sean",
+      "rel": "REPORTS_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "team:nop_project",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "team:data_technical",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "person:Jason Hao",
+      "rel": "REPORTS_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "team:nop_project",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "team:data_technical",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "person:Sean",
+      "rel": "REPORTS_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "person:Roger",
+      "rel": "MANAGES",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "team:nop_project",
+      "rel": "MEMBER_OF",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "person:Sean",
+      "rel": "REPORTS_TO",
+      "data_source": "rule",
+      "description": ""
+    }
+  ]
+}

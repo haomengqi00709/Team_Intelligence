@@ -1,0 +1,134 @@
+{
+  "members": [
+    {
+      "name": "Carolyn",
+      "project_role": "Carolyn contributed to the risk model modernization across all project phases.",
+      "key_contributions": [
+        "Authored key project documents",
+        "Involved in audit compliance",
+        "Addressed data hygiene issues",
+        "Considered expert profiling"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Dave",
+      "project_role": "Dave supported the project with a focus on implementation and operational considerations.",
+      "key_contributions": [
+        "Authored key project documents",
+        "Addressed data hygiene issues",
+        "Considered geographic weight",
+        "Addressed legacy decay"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Dr. Aris",
+      "project_role": "Dr. Aris focused on model validation and data integrity throughout the project lifecycle.",
+      "key_contributions": [
+        "Authored key project documents",
+        "Focused on model validation",
+        "Addressed data hygiene issues",
+        "Considered geographic weight"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Dr. L. Henderson",
+      "project_role": "Dr. Henderson provided input on operational aspects related to flammable materials and incident response.",
+      "key_contributions": [
+        "Contributed to operations phase",
+        "Focused on Class 3 flammables",
+        "Addressed incident response"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Jason Hao",
+      "project_role": "Jason Hao was a key contributor across all project phases, authoring a significant number of documents.",
+      "key_contributions": [
+        "Authored many project documents",
+        "Involved in audit compliance",
+        "Addressed data hygiene issues",
+        "Considered expert profiling"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Judy",
+      "project_role": "Judy provided input during the planning phase, focusing on budget and data considerations.",
+      "key_contributions": [
+        "Contributed to planning phase",
+        "Focused on budget neutrality",
+        "Addressed data hygiene"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Luc Trudel",
+      "project_role": "Luc Trudel contributed to implementation and closeout, focusing on streamlining and model validation.",
+      "key_contributions": [
+        "Contributed to implementation",
+        "Focused on model validation",
+        "Addressed data hygiene",
+        "Considered streamlining"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Marc",
+      "project_role": "Marc contributed to project governance and risk scoring, with a focus on SAS implementation.",
+      "key_contributions": [
+        "Authored key project documents",
+        "Focused on risk scoring",
+        "Addressed data hygiene",
+        "Considered SAS implementation"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Roger",
+      "project_role": "Roger contributed across all project phases, with a focus on data integrity and model validation.",
+      "key_contributions": [
+        "Involved in audit compliance",
+        "Addressed data hygiene issues",
+        "Considered expert profiling",
+        "Focused on model validation"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Sean",
+      "project_role": "Sean contributed across all project phases, with a focus on data integrity and risk assessment.",
+      "key_contributions": [
+        "Authored key project documents",
+        "Involved in audit compliance",
+        "Addressed data hygiene issues",
+        "Considered expert profiling"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Stephen",
+      "project_role": "Stephen provided review and audit support, focusing on SAS implementation and sensitivity analysis.",
+      "key_contributions": [
+        "Contributed to audit and review",
+        "Focused on SAS implementation",
+        "Addressed sensitivity analysis",
+        "Considered streamlining"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Vicky",
+      "project_role": "Vicky contributed to the implementation phase, focusing on data dictionaries and model validation.",
+      "key_contributions": [
+        "Contributed to implementation",
+        "Focused on model validation",
+        "Addressed data dictionary"
+      ],
+      "involvement": "supporting"
+    }
+  ],
+  "generated_at": "2026-03-15T19:05:05.110765+00:00"
+}

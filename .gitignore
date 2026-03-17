@@ -6,8 +6,6 @@ guide/
 uploads/
 
 # ── Generated data (derived from documents) ───────────────────────
-demo_system/python/cache/
-demo_system/python/chroma_db/
 demo_system/python/logs/
 
 # ── Secrets ───────────────────────────────────────────────────────

@@ -1,0 +1,3644 @@
+{
+  "meta": {
+    "mode": "people",
+    "total_nodes": 102,
+    "total_links": 299,
+    "nodes_by_type": {
+      "document": 90,
+      "person": 12
+    },
+    "links_by_rel": {
+      "AUTHORED": 80,
+      "CONTRIBUTED_TO": 205,
+      "OPPOSED": 3,
+      "APPROVED": 11
+    }
+  },
+  "nodes": [
+    {
+      "id": "doc:MSG-001",
+      "label": "MSG-001",
+      "type": "document",
+      "group": 21,
+      "size": 16,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-11",
+        "project_phase": "operations",
+        "approval_status": "draft",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-002",
+      "label": "MSG-002",
+      "type": "document",
+      "group": 21,
+      "size": 16,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-12",
+        "project_phase": "review",
+        "approval_status": "draft",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-003",
+      "label": "MSG-003",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-13",
+        "project_phase": "initiation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-004",
+      "label": "MSG-004",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-14",
+        "project_phase": "planning",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-005",
+      "label": "MSG-005",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-15",
+        "project_phase": "initiation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-006",
+      "label": "MSG-006",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-25",
+        "project_phase": "planning",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-007",
+      "label": "MSG-007",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-01",
+        "project_phase": "planning",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-008",
+      "label": "MSG-008",
+      "type": "document",
+      "group": 21,
+      "size": 24,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-02",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-009",
+      "label": "MSG-009",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-03",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-010",
+      "label": "MSG-010",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-03",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-011",
+      "label": "MSG-011",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-08",
+        "project_phase": "development",
+        "approval_status": "draft",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-012-V1",
+      "label": "MSG-012-V1",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-12",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": "v1"
+      }
+    },
+    {
+      "id": "doc:MSG-012",
+      "label": "MSG-012",
+      "type": "document",
+      "group": 21,
+      "size": 28,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-10",
+        "project_phase": "review",
+        "approval_status": "draft",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-013-V1",
+      "label": "MSG-013-V1",
+      "type": "document",
+      "group": 21,
+      "size": 24,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-13",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": "v1"
+      }
+    },
+    {
+      "id": "doc:MSG-013",
+      "label": "MSG-013",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-11",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-014",
+      "label": "MSG-014",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-12",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-015",
+      "label": "MSG-015",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-12",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-016-V2",
+      "label": "MSG-016-V2",
+      "type": "document",
+      "group": 21,
+      "size": 28,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-15",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": "v2"
+      }
+    },
+    {
+      "id": "doc:MSG-016",
+      "label": "MSG-016",
+      "type": "document",
+      "group": 21,
+      "size": 24,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-15",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-017",
+      "label": "MSG-017",
+      "type": "document",
+      "group": 21,
+      "size": 26,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-17",
+        "project_phase": "approval",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-018",
+      "label": "MSG-018",
+      "type": "document",
+      "group": 21,
+      "size": 16,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-18",
+        "project_phase": "implementation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-019-V2",
+      "label": "MSG-019-V2",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-19",
+        "project_phase": "approval",
+        "approval_status": "unknown",
+        "document_version": "v2"
+      }
+    },
+    {
+      "id": "doc:MSG-019",
+      "label": "MSG-019",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-19",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-020",
+      "label": "MSG-020",
+      "type": "document",
+      "group": 21,
+      "size": 16,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-22",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-021",
+      "label": "MSG-021",
+      "type": "document",
+      "group": 21,
+      "size": 24,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-07-06",
+        "project_phase": "implementation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-022",
+      "label": "MSG-022",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-07-08",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-023",
+      "label": "MSG-023",
+      "type": "document",
+      "group": 21,
+      "size": 26,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-07-15",
+        "project_phase": "approval",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-024",
+      "label": "MSG-024",
+      "type": "document",
+      "group": 21,
+      "size": 28,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-07-17",
+        "project_phase": "approval",
+        "approval_status": "approved",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-025",
+      "label": "MSG-025",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-07-17",
+        "project_phase": "closeout",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-026",
+      "label": "MSG-026",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-08-10",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": "Report"
+      }
+    },
+    {
+      "id": "doc:MSG-027",
+      "label": "MSG-027",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-08-20",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-028",
+      "label": "MSG-028",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-09-05",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-029",
+      "label": "MSG-029",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-09-07",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-030",
+      "label": "MSG-030",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-09-10",
+        "project_phase": "closeout",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-031",
+      "label": "MSG-031",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-09-15",
+        "project_phase": "closeout",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-032",
+      "label": "MSG-032",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-10-05",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-033",
+      "label": "MSG-033",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-10-06",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-034",
+      "label": "MSG-034",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-11-20",
+        "project_phase": "planning",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-035",
+      "label": "MSG-035",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-12-15",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-036",
+      "label": "MSG-036",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-01-12",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-037",
+      "label": "MSG-037",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-01-14",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-038-V1",
+      "label": "MSG-038-V1",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-02-08",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": "v1"
+      }
+    },
+    {
+      "id": "doc:MSG-038",
+      "label": "MSG-038",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-02-05",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-039",
+      "label": "MSG-039",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-02-10",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-040",
+      "label": "MSG-040",
+      "type": "document",
+      "group": 21,
+      "size": 16,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-02-15",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-041",
+      "label": "MSG-041",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-03-05",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-042",
+      "label": "MSG-042",
+      "type": "document",
+      "group": 21,
+      "size": 32,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-03-08",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-043",
+      "label": "MSG-043",
+      "type": "document",
+      "group": 21,
+      "size": 14,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-03-20",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-044",
+      "label": "MSG-044",
+      "type": "document",
+      "group": 21,
+      "size": 12,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-04-02",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-045",
+      "label": "MSG-045",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-04-15",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-046",
+      "label": "MSG-046",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-05-10",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-047",
+      "label": "MSG-047",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-05-12",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-048",
+      "label": "MSG-048",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-05-15",
+        "project_phase": "initiation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-049",
+      "label": "MSG-049",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-05-18",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MSG-050",
+      "label": "MSG-050",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-05-20",
+        "project_phase": "closeout",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-001",
+      "label": "MTG-001",
+      "type": "document",
+      "group": 21,
+      "size": 16,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-11",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-002",
+      "label": "MTG-002",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-05-18",
+        "project_phase": "planning",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-003",
+      "label": "MTG-003",
+      "type": "document",
+      "group": 21,
+      "size": 24,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-01",
+        "project_phase": "initiation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-004",
+      "label": "MTG-004",
+      "type": "document",
+      "group": 21,
+      "size": 18,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-04",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-005",
+      "label": "MTG-005",
+      "type": "document",
+      "group": 21,
+      "size": 26,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-17",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-006",
+      "label": "MTG-006",
+      "type": "document",
+      "group": 21,
+      "size": 20,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-06-25",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-007",
+      "label": "MTG-007",
+      "type": "document",
+      "group": 21,
+      "size": 22,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2026-09-08",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:MTG-008",
+      "label": "MTG-008",
+      "type": "document",
+      "group": 21,
+      "size": 14,
+      "meta": {
+        "file_type": "email",
+        "source_folder": "email",
+        "event_date": "2027-05-19",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "label": "meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "type": "document",
+      "group": 22,
+      "size": 26,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2026-06-05",
+        "project_phase": "planning",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "label": "meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "type": "document",
+      "group": 22,
+      "size": 32,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2026-06-12",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "label": "meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "type": "document",
+      "group": 22,
+      "size": 24,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2026-06-15",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "label": "meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "type": "document",
+      "group": 22,
+      "size": 30,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2026-06-17",
+        "project_phase": "approval",
+        "approval_status": "approved",
+        "document_version": "Final"
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "label": "meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "type": "document",
+      "group": 22,
+      "size": 30,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2026-07-08",
+        "project_phase": "implementation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "label": "meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "type": "document",
+      "group": 22,
+      "size": 22,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2026-10-15",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "label": "meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "type": "document",
+      "group": 22,
+      "size": 24,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2027-01-20",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "label": "meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "type": "document",
+      "group": 22,
+      "size": 26,
+      "meta": {
+        "file_type": "meeting_minutes",
+        "source_folder": "meetings",
+        "event_date": "2027-03-10",
+        "project_phase": "closeout",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:work_2027_Trend_Watch_Class3",
+      "label": "work_2027_Trend_Watch_Class3",
+      "type": "document",
+      "group": 23,
+      "size": 18,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2027-01-15",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "label": "work_Algorithm_Methodology_v1_0_Draft",
+      "type": "document",
+      "group": 23,
+      "size": 20,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2026-06-05",
+        "project_phase": "development",
+        "approval_status": "draft",
+        "document_version": "v1"
+      }
+    },
+    {
+      "id": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "label": "work_Algorithm_Methodology_v2_0_Final",
+      "type": "document",
+      "group": 23,
+      "size": 36,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2026-06-19",
+        "project_phase": "implementation",
+        "approval_status": "approved",
+        "document_version": "v2"
+      }
+    },
+    {
+      "id": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "label": "work_BC_Okanagan_Streamline_Audit_Data",
+      "type": "document",
+      "group": 23,
+      "size": 14,
+      "meta": {
+        "file_type": "csv",
+        "source_folder": "work",
+        "event_date": "",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:work_Conflict_Check_Report_v1_0",
+      "label": "work_Conflict_Check_Report_v1_0",
+      "type": "document",
+      "group": 23,
+      "size": 18,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2026-07-05",
+        "project_phase": "implementation",
+        "approval_status": "unknown",
+        "document_version": "v1"
+      }
+    },
+    {
+      "id": "doc:work_FY2026_Performance_Draft_Internal",
+      "label": "work_FY2026_Performance_Draft_Internal",
+      "type": "document",
+      "group": 23,
+      "size": 12,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2027-02-08",
+        "project_phase": "review",
+        "approval_status": "draft",
+        "document_version": "Draft"
+      }
+    },
+    {
+      "id": "doc:work_FY2026_Performance_Metric_Final",
+      "label": "work_FY2026_Performance_Metric_Final",
+      "type": "document",
+      "group": 23,
+      "size": 14,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2027-05-12",
+        "project_phase": "operations",
+        "approval_status": "approved",
+        "document_version": "Final"
+      }
+    },
+    {
+      "id": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "label": "work_Impact_Summary_Table_v1_Aris_Draft",
+      "type": "document",
+      "group": 23,
+      "size": 20,
+      "meta": {
+        "file_type": "excel_sheet",
+        "source_folder": "work",
+        "event_date": "",
+        "project_phase": "review",
+        "approval_status": "draft",
+        "document_version": "v1"
+      }
+    },
+    {
+      "id": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "label": "work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "type": "document",
+      "group": 23,
+      "size": 30,
+      "meta": {
+        "file_type": "excel_sheet",
+        "source_folder": "work",
+        "event_date": "",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": "v2"
+      }
+    },
+    {
+      "id": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "label": "work_Internal_Audit_Memo_2027_01_Final",
+      "type": "document",
+      "group": 23,
+      "size": 28,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2027-03-25",
+        "project_phase": "audit",
+        "approval_status": "approved",
+        "document_version": "Final"
+      }
+    },
+    {
+      "id": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "label": "work_Maintenance_Manual_Section_4_Recalibration",
+      "type": "document",
+      "group": 23,
+      "size": 14,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2026-06-24",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": "MANDATORY OPERATIONAL GUIDELINE"
+      }
+    },
+    {
+      "id": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "label": "work_NOP_Risk_Model_PROD_AUG01",
+      "type": "document",
+      "group": 23,
+      "size": 40,
+      "meta": {
+        "file_type": "sas_script",
+        "source_folder": "work",
+        "event_date": "",
+        "project_phase": "implementation",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:work_North_York_Incident_Report_Summary",
+      "label": "work_North_York_Incident_Report_Summary",
+      "type": "document",
+      "group": 23,
+      "size": 20,
+      "meta": {
+        "file_type": "word_doc",
+        "source_folder": "work",
+        "event_date": "2026-09-14",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "label": "work_TDG_CORE_Data_Dictionary_v2_1",
+      "type": "document",
+      "group": 23,
+      "size": 40,
+      "meta": {
+        "file_type": "excel_sheet",
+        "source_folder": "work",
+        "event_date": "1900-01-01",
+        "project_phase": "development",
+        "approval_status": "unknown",
+        "document_version": "v2"
+      }
+    },
+    {
+      "id": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "label": "work_Transport_Canada_NOP_2026_27_Modernization",
+      "type": "document",
+      "group": 23,
+      "size": 18,
+      "meta": {
+        "file_type": "powerpoint",
+        "source_folder": "work",
+        "event_date": "2027-05-12",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "label": "guide_Env_Canada_Technical_Brief_Winter2026",
+      "type": "document",
+      "group": 24,
+      "size": 12,
+      "meta": {
+        "file_type": "policy_doc",
+        "source_folder": "guide",
+        "event_date": "2026-12-20",
+        "project_phase": "operations",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "label": "guide_Internal_Audit_Guideline_ADS_202_B",
+      "type": "document",
+      "group": 24,
+      "size": 16,
+      "meta": {
+        "file_type": "policy_doc",
+        "source_folder": "guide",
+        "event_date": "2026-01-10",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "label": "guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "type": "document",
+      "group": 24,
+      "size": 12,
+      "meta": {
+        "file_type": "policy_doc",
+        "source_folder": "guide",
+        "event_date": "2024-04-01",
+        "project_phase": "audit",
+        "approval_status": "unknown",
+        "document_version": "v3"
+      }
+    },
+    {
+      "id": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "label": "guide_Vancouver_Maritime_Review_May_2026",
+      "type": "document",
+      "group": 24,
+      "size": 12,
+      "meta": {
+        "file_type": "policy_doc",
+        "source_folder": "guide",
+        "event_date": "2026-05-14",
+        "project_phase": "review",
+        "approval_status": "unknown",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Dr. L. Henderson",
+      "label": "Dr. L. Henderson",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Carolyn",
+      "label": "Carolyn",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Dr. Aris",
+      "label": "Dr. Aris",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Stephen",
+      "label": "Stephen",
+      "type": "person",
+      "group": 1,
+      "size": 18,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Judy",
+      "label": "Judy",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Roger",
+      "label": "Roger",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Sean",
+      "label": "Sean",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Dave",
+      "label": "Dave",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Luc Trudel",
+      "label": "Luc Trudel",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Vicky",
+      "label": "Vicky",
+      "type": "person",
+      "group": 1,
+      "size": 8,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Marc",
+      "label": "Marc",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    },
+    {
+      "id": "person:Jason Hao",
+      "label": "Jason Hao",
+      "type": "person",
+      "group": 1,
+      "size": 40,
+      "meta": {
+        "file_type": "",
+        "source_folder": "",
+        "event_date": "",
+        "project_phase": "",
+        "approval_status": "",
+        "document_version": ""
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "person:Dr. L. Henderson",
+      "target": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-004",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-006",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-012",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-015",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-016-V2",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-016",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-017",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-019",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-022",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-023",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-024",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-027",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-029",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-030",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-031",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-035",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-038-V1",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-038",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-039",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-043",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-045",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-047",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-048",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-049",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MSG-050",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MTG-002",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MTG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MTG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:MTG-007",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-007",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-008",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-009",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-011",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-012-V1",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-013-V1",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-013",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-016-V2",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-016",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-017",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-019-V2",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-019",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-021",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-024",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-031",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MTG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MTG-004",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:MTG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "OPPOSED",
+      "data_source": "rule",
+      "description": "Dave's concerns about regional safety and the 10% geographic weight proposal"
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dr. Aris",
+      "target": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Stephen",
+      "target": "doc:MSG-041",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Stephen",
+      "target": "doc:MSG-042",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Stephen",
+      "target": "doc:MTG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Stephen",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Stephen",
+      "target": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Stephen",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Judy",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-001",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-002",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-004",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-006",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-008",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-009",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-010",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-011",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-014",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-016",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-018",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-021",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-024",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-025",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-026",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-031",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-032",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-033",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-034",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-035",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-036",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-037",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-040",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-042",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-044",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-045",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-046",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-047",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-049",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MSG-050",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MTG-001",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MTG-002",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MTG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MTG-006",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Roger",
+      "target": "doc:MTG-008",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-001",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-002",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-003",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-004",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-006",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-008",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-009",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-010",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-011",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-012-V1",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-012",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-013",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-014",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-015",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-016-V2",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-016",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-017",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-018",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-019",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-020",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-021",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-022",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-023",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-024",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-025",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-026",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-027",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-028",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-029",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-030",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-031",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-032",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-033",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-034",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-035",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-036",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-037",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-038",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-039",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-040",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-041",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-042",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-043",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-045",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-046",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-047",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-048",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-049",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MSG-050",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-001",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-002",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-003",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-004",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:MTG-008",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-012",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-012",
+      "rel": "OPPOSED",
+      "data_source": "rule",
+      "description": "concerned that several high-priority chemical transload facilities in the Vancouver port area have been downgraded to 'Medium' or 'Low' risk"
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-013-V1",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-013-V1",
+      "rel": "OPPOSED",
+      "data_source": "rule",
+      "description": "opposes the 'Low Risk' classification of high-volume transload facilities in the Vancouver corridor under the 10% weighting (v1 table)"
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-013",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-016-V2",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-017",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-020",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-021",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-022",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-022",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "The inclusion of the Mississauga and Hamilton corridor sites at a 'High' risk level"
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-028",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MSG-030",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:MTG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Luc Trudel",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Luc Trudel",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Vicky",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-004",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-005",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-005",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "initiation of the Risk Score Re-evaluation project in principle"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-012",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-015",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-017",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-017",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "Scenario B (15% Geographic Sensitivity)"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-023",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-023",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "national roll-out of the new Risk Score model"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-024",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-024",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "the national roll-out effective immediately"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-027",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-029",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-030",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-038",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-039",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-048",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-048",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "impressed with how the Risk Model has stabilized our oversight planning"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-050",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-050",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "Jason’s proposed transition plan"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MTG-002",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MTG-005",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MTG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-019-V2",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "final technical record"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-025",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "final approval"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:MSG-042",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "15% weighting"
+    },
+    {
+      "source": "person:Marc",
+      "target": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "rel": "APPROVED",
+      "data_source": "rule",
+      "description": "the 15% geo weight (Scenario B)"
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-001",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-002",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-004",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-006",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-008",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-009",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-010",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-011",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-012-V1",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-012",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-013-V1",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-013",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-014",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-015",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-016-V2",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-016",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-017",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-018",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-019-V2",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-019",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-020",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-021",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-022",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-023",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-024",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-025",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-026",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-027",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-028",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-029",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-030",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-031",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-032",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-033",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-034",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-035",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-036",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-037",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-038-V1",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-038",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-039",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-040",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-041",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-042",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-043",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-044",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-045",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-046",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-047",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-048",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-049",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-050",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-001",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-002",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-003",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-004",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-005",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-006",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-007",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-008",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_2027_Trend_Watch_Class3",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_Conflict_Check_Report_v1_0",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_FY2026_Performance_Draft_Internal",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_FY2026_Performance_Metric_Final",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "rel": "CONTRIBUTED_TO",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    },
+    {
+      "source": "person:Jason Hao",
+      "target": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "rel": "AUTHORED",
+      "data_source": "rule",
+      "description": ""
+    }
+  ]
+}

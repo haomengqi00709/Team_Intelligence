@@ -1,0 +1,125 @@
+{
+  "members": [
+    {
+      "name": "Carolyn",
+      "project_role": "Carolyn contributed to the model's development and implementation, focusing on audit compliance and data integrity.",
+      "key_contributions": [
+        "Authored key documentation",
+        "Addressed data hygiene issues",
+        "Considered expert profiling"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Dave",
+      "project_role": "Dave supported the modernization effort by focusing on budget neutrality and performance metrics.",
+      "key_contributions": [
+        "Addressed budget neutrality",
+        "Analyzed performance metrics",
+        "Considered regional factors"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Dr. Aris",
+      "project_role": "Dr. Aris focused on model validation and data integrity throughout the project lifecycle.",
+      "key_contributions": [
+        "Authored key documentation",
+        "Focused on model validation",
+        "Addressed data hygiene"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Dr. L. Henderson",
+      "project_role": "Dr. Henderson provided input on operational aspects related to flammable materials and incident response.",
+      "key_contributions": [
+        "Class 3 flammable expertise",
+        "Incident response insights",
+        "Regional safety considerations"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Jason Hao",
+      "project_role": "Jason Hao was a key contributor involved in all project phases, focusing on data management and compliance.",
+      "key_contributions": [
+        "Authored extensive documentation",
+        "Addressed data hygiene issues",
+        "Considered expert profiling"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Judy",
+      "project_role": "Judy provided input during the planning phase, specifically on budget and data considerations.",
+      "key_contributions": [
+        "Budget neutrality input",
+        "Data hygiene considerations",
+        "Geographic weighting input"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Luc Trudel",
+      "project_role": "Luc Trudel contributed to streamlining and validation efforts during implementation and closeout.",
+      "key_contributions": [
+        "Streamlining considerations",
+        "Model validation input",
+        "Data dictionary review"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Marc",
+      "project_role": "Marc contributed to project governance, risk scoring, and SAS implementation aspects of the model.",
+      "key_contributions": [
+        "SAS implementation input",
+        "Model validation input",
+        "Risk scoring considerations"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Roger",
+      "project_role": "Roger contributed across all project phases, focusing on data integrity, compliance history, and model validation.",
+      "key_contributions": [
+        "Addressed data hygiene issues",
+        "Compliance history analysis",
+        "Model validation input"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Sean",
+      "project_role": "Sean contributed to all project phases, focusing on data management, compliance, and risk factors.",
+      "key_contributions": [
+        "Authored key documentation",
+        "Addressed data hygiene issues",
+        "Considered expert profiling"
+      ],
+      "involvement": "core"
+    },
+    {
+      "name": "Stephen",
+      "project_role": "Stephen provided input on model validation, SAS implementation, and sensitivity analysis during audit and review.",
+      "key_contributions": [
+        "Model validation input",
+        "SAS implementation input",
+        "Sensitivity analysis input"
+      ],
+      "involvement": "supporting"
+    },
+    {
+      "name": "Vicky",
+      "project_role": "Vicky contributed to the implementation phase, focusing on data dictionary and model validation.",
+      "key_contributions": [
+        "Data dictionary input",
+        "Model validation input",
+        "Geographic weighting input"
+      ],
+      "involvement": "supporting"
+    }
+  ],
+  "generated_at": "2026-03-15T19:05:05.110765+00:00"
+}

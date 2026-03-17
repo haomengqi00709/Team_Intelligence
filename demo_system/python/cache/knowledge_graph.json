@@ -1,0 +1,7222 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "document",
+      "label": "MSG-001",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-11",
+      "document_version": "",
+      "approval_status": "draft",
+      "project_phase": "operations",
+      "id": "doc:MSG-001"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-002",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-12",
+      "document_version": "",
+      "approval_status": "draft",
+      "project_phase": "review",
+      "id": "doc:MSG-002"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-003",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-13",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "initiation",
+      "id": "doc:MSG-003"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-004",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-14",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:MSG-004"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-005",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "initiation",
+      "id": "doc:MSG-005"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-006",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-25",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:MSG-006"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-007",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-01",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:MSG-007"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-008",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-02",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:MSG-008"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-009",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-03",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:MSG-009"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-010",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-03",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-010"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-011",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-08",
+      "document_version": "",
+      "approval_status": "draft",
+      "project_phase": "development",
+      "id": "doc:MSG-011"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-012-V1",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-12",
+      "document_version": "v1",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-012-V1"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-012",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-10",
+      "document_version": "",
+      "approval_status": "draft",
+      "project_phase": "review",
+      "id": "doc:MSG-012"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-013-V1",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-13",
+      "document_version": "v1",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-013-V1"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-013",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-11",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-013"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-014",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-12",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-014"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-015",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-12",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-015"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-016-V2",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-15",
+      "document_version": "v2",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:MSG-016-V2"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-016",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-016"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-017",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-17",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "approval",
+      "id": "doc:MSG-017"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-018",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-18",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "implementation",
+      "id": "doc:MSG-018"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-019-V2",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-19",
+      "document_version": "v2",
+      "approval_status": "unknown",
+      "project_phase": "approval",
+      "id": "doc:MSG-019-V2"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-019",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-19",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:MSG-019"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-020",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-22",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-020"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-021",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-07-06",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "implementation",
+      "id": "doc:MSG-021"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-022",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-07-08",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-022"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-023",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-07-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "approval",
+      "id": "doc:MSG-023"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-024",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-07-17",
+      "document_version": "",
+      "approval_status": "approved",
+      "project_phase": "approval",
+      "id": "doc:MSG-024"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-025",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-07-17",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "closeout",
+      "id": "doc:MSG-025"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-026",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-08-10",
+      "document_version": "Report",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-026"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-027",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-08-20",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-027"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-028",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-09-05",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-028"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-029",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-09-07",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:MSG-029"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-030",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-09-10",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "closeout",
+      "id": "doc:MSG-030"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-031",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-09-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "closeout",
+      "id": "doc:MSG-031"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-032",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-10-05",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-032"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-033",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-10-06",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-033"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-034",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-11-20",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:MSG-034"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-035",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-12-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-035"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-036",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-01-12",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-036"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-037",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-01-14",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-037"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-038-V1",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-02-08",
+      "document_version": "v1",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-038-V1"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-038",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-02-05",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MSG-038"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-039",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-02-10",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-039"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-040",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-02-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-040"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-041",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-03-05",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:MSG-041"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-042",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-03-08",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:MSG-042"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-043",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-03-20",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-043"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-044",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-04-02",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-044"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-045",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-04-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:MSG-045"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-046",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-05-10",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-046"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-047",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-05-12",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-047"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-048",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-05-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "initiation",
+      "id": "doc:MSG-048"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-049",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-05-18",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MSG-049"
+    },
+    {
+      "node_type": "document",
+      "label": "MSG-050",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-05-20",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "closeout",
+      "id": "doc:MSG-050"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-001",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-11",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MTG-001"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-002",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-05-18",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:MTG-002"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-003",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-01",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "initiation",
+      "id": "doc:MTG-003"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-004",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-04",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:MTG-004"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-005",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-17",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MTG-005"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-006",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-06-25",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:MTG-006"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-007",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2026-09-08",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:MTG-007"
+    },
+    {
+      "node_type": "document",
+      "label": "MTG-008",
+      "file_type": "email",
+      "source_folder": "email",
+      "event_date": "2027-05-19",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:MTG-008"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2026-06-05",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2026-06-12",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2026-06-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2026-06-17",
+      "document_version": "Final",
+      "approval_status": "approved",
+      "project_phase": "approval",
+      "id": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2026-07-08",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "implementation",
+      "id": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2026-10-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2027-01-20",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis"
+    },
+    {
+      "node_type": "document",
+      "label": "meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "file_type": "meeting_minutes",
+      "source_folder": "meetings",
+      "event_date": "2027-03-10",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "closeout",
+      "id": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff"
+    },
+    {
+      "node_type": "document",
+      "label": "work_2027_Trend_Watch_Class3",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2027-01-15",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:work_2027_Trend_Watch_Class3"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Algorithm_Methodology_v1_0_Draft",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2026-06-05",
+      "document_version": "v1",
+      "approval_status": "draft",
+      "project_phase": "development",
+      "id": "doc:work_Algorithm_Methodology_v1_0_Draft"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Algorithm_Methodology_v2_0_Final",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2026-06-19",
+      "document_version": "v2",
+      "approval_status": "approved",
+      "project_phase": "implementation",
+      "id": "doc:work_Algorithm_Methodology_v2_0_Final"
+    },
+    {
+      "node_type": "document",
+      "label": "work_BC_Okanagan_Streamline_Audit_Data",
+      "file_type": "csv",
+      "source_folder": "work",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:work_BC_Okanagan_Streamline_Audit_Data"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Conflict_Check_Report_v1_0",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2026-07-05",
+      "document_version": "v1",
+      "approval_status": "unknown",
+      "project_phase": "implementation",
+      "id": "doc:work_Conflict_Check_Report_v1_0"
+    },
+    {
+      "node_type": "document",
+      "label": "work_FY2026_Performance_Draft_Internal",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2027-02-08",
+      "document_version": "Draft",
+      "approval_status": "draft",
+      "project_phase": "review",
+      "id": "doc:work_FY2026_Performance_Draft_Internal"
+    },
+    {
+      "node_type": "document",
+      "label": "work_FY2026_Performance_Metric_Final",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2027-05-12",
+      "document_version": "Final",
+      "approval_status": "approved",
+      "project_phase": "operations",
+      "id": "doc:work_FY2026_Performance_Metric_Final"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Impact_Summary_Table_v1_Aris_Draft",
+      "file_type": "excel_sheet",
+      "source_folder": "work",
+      "event_date": "",
+      "document_version": "v1",
+      "approval_status": "draft",
+      "project_phase": "review",
+      "id": "doc:work_Impact_Summary_Table_v1_Aris_Draft"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "file_type": "excel_sheet",
+      "source_folder": "work",
+      "event_date": "",
+      "document_version": "v2",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Internal_Audit_Memo_2027_01_Final",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2027-03-25",
+      "document_version": "Final",
+      "approval_status": "approved",
+      "project_phase": "audit",
+      "id": "doc:work_Internal_Audit_Memo_2027_01_Final"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Maintenance_Manual_Section_4_Recalibration",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2026-06-24",
+      "document_version": "MANDATORY OPERATIONAL GUIDELINE",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:work_Maintenance_Manual_Section_4_Recalibration"
+    },
+    {
+      "node_type": "document",
+      "label": "work_NOP_Risk_Model_PROD_AUG01",
+      "file_type": "sas_script",
+      "source_folder": "work",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "implementation",
+      "id": "doc:work_NOP_Risk_Model_PROD_AUG01"
+    },
+    {
+      "node_type": "document",
+      "label": "work_North_York_Incident_Report_Summary",
+      "file_type": "word_doc",
+      "source_folder": "work",
+      "event_date": "2026-09-14",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:work_North_York_Incident_Report_Summary"
+    },
+    {
+      "node_type": "document",
+      "label": "work_TDG_CORE_Data_Dictionary_v2_1",
+      "file_type": "excel_sheet",
+      "source_folder": "work",
+      "event_date": "1900-01-01",
+      "document_version": "v2",
+      "approval_status": "unknown",
+      "project_phase": "development",
+      "id": "doc:work_TDG_CORE_Data_Dictionary_v2_1"
+    },
+    {
+      "node_type": "document",
+      "label": "work_Transport_Canada_NOP_2026_27_Modernization",
+      "file_type": "powerpoint",
+      "source_folder": "work",
+      "event_date": "2027-05-12",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:work_Transport_Canada_NOP_2026_27_Modernization"
+    },
+    {
+      "node_type": "document",
+      "label": "guide_Env_Canada_Technical_Brief_Winter2026",
+      "file_type": "policy_doc",
+      "source_folder": "guide",
+      "event_date": "2026-12-20",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:guide_Env_Canada_Technical_Brief_Winter2026"
+    },
+    {
+      "node_type": "document",
+      "label": "guide_Internal_Audit_Guideline_ADS_202_B",
+      "file_type": "policy_doc",
+      "source_folder": "guide",
+      "event_date": "2026-01-10",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:guide_Internal_Audit_Guideline_ADS_202_B"
+    },
+    {
+      "node_type": "document",
+      "label": "guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "file_type": "policy_doc",
+      "source_folder": "guide",
+      "event_date": "2024-04-01",
+      "document_version": "v3",
+      "approval_status": "unknown",
+      "project_phase": "audit",
+      "id": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3"
+    },
+    {
+      "node_type": "document",
+      "label": "guide_Vancouver_Maritime_Review_May_2026",
+      "file_type": "policy_doc",
+      "source_folder": "guide",
+      "event_date": "2026-05-14",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:guide_Vancouver_Maritime_Review_May_2026"
+    },
+    {
+      "node_type": "document",
+      "label": "documents_Reinforcement_Learning_Project_Proposal_1_1",
+      "file_type": "unknown",
+      "source_folder": "documents",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "initiation",
+      "id": "doc:documents_Reinforcement_Learning_Project_Proposal_1_1"
+    },
+    {
+      "node_type": "document",
+      "label": "documents_10005533572_RFP_ENG",
+      "file_type": "unknown",
+      "source_folder": "documents",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:documents_10005533572_RFP_ENG"
+    },
+    {
+      "node_type": "document",
+      "label": "documents_2671_AVERE_Improving_Audiovisu",
+      "file_type": "unknown",
+      "source_folder": "documents",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "review",
+      "id": "doc:documents_2671_AVERE_Improving_Audiovisu"
+    },
+    {
+      "node_type": "document",
+      "label": "documents_25_58297_ACAN_M24_D_Building_Automation_System_BAS_Controller_Upgrade",
+      "file_type": "unknown",
+      "source_folder": "documents",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "operations",
+      "id": "doc:documents_25_58297_ACAN_M24_D_Building_Automation_System_BAS_Controller_Upgrade"
+    },
+    {
+      "node_type": "document",
+      "label": "presentations_Legacy_PawPromise_Investor_Pitch",
+      "file_type": "powerpoint",
+      "source_folder": "presentations",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "initiation",
+      "id": "doc:presentations_Legacy_PawPromise_Investor_Pitch"
+    },
+    {
+      "node_type": "document",
+      "label": "documents_10081433_ACAN_EN_FR",
+      "file_type": "pdf",
+      "source_folder": "documents",
+      "event_date": "",
+      "document_version": "",
+      "approval_status": "unknown",
+      "project_phase": "planning",
+      "id": "doc:documents_10081433_ACAN_EN_FR"
+    },
+    {
+      "node_type": "person",
+      "label": "Sean",
+      "title": "Project Lead",
+      "employment_type": "staff",
+      "scope": "End-to-end project management for the NOP Risk Model modernization. Sean coordinates between the technical team, Dr. Aris (external consultant), regional inspectors, and executive leadership. Responsible for SOW procurement, stakeholder alignment, milestone tracking, and escalation to Marc.",
+      "bio": "Sean leads the NOP project team and serves as the primary interface between technical contributors and executive decision-makers. He managed the transition from Scenario A to Scenario B and coordinated the IAD audit process.",
+      "skills": "[\"project_governance\", \"stakeholder_alignment\", \"decision_making\", \"risk_scoring\"]",
+      "contact": "sean.lead@tc.gc.ca",
+      "team": "nop_project",
+      "id": "person:Sean"
+    },
+    {
+      "node_type": "person",
+      "label": "Stephen",
+      "title": "Internal Auditor, IAD",
+      "employment_type": "staff",
+      "scope": "Independent internal auditor from the Internal Audit Directorate (IAD). Stephen operates outside the project team and is responsible for evaluating the NOP Risk Model against the Four Pillars framework: data integrity, algorithmic transparency, human oversight, and regulatory compliance. He delivered the final 'Fully Compliant' audit rating in March 2027.",
+      "bio": "Stephen's audit covered the full project lifecycle — from data sourcing through production deployment. His independence from the project team is structurally important: he reports to a separate directorate, not to Marc.",
+      "skills": "[\"audit_compliance\", \"policy_compliance\", \"data_hygiene\", \"streamlining\"]",
+      "contact": "stephen.audit@tc.gc.ca",
+      "team": "",
+      "id": "person:Stephen"
+    },
+    {
+      "node_type": "person",
+      "label": "Dr. L. Henderson",
+      "id": "person:Dr. L. Henderson"
+    },
+    {
+      "node_type": "person",
+      "label": "Dr. Aris",
+      "title": "External Statistical Consultant",
+      "employment_type": "contractor",
+      "scope": "Engaged under the project SOW to design the updated risk model algorithm and provide statistical methodology expertise. Dr. Aris proposed the original Scenario A (10% geographic weight) and the initial algorithm structure. His engagement was scoped to the development and review phases — he was not involved in production deployment or the IAD audit.",
+      "bio": "Dr. Aris brought external statistical rigour to the model design. Although his Scenario A was ultimately revised to Scenario B, his algorithmic framework formed the foundation of the final model.",
+      "skills": "[\"risk_scoring\", \"sensitivity_analysis\", \"model_validation\", \"geographic_weight\", \"data_hygiene\"]",
+      "contact": "aris.consultant@ext.tc.gc.ca",
+      "team": "nop_project",
+      "id": "person:Dr. Aris"
+    },
+    {
+      "node_type": "person",
+      "label": "Judy",
+      "id": "person:Judy"
+    },
+    {
+      "node_type": "person",
+      "label": "Luc Trudel",
+      "id": "person:Luc Trudel"
+    },
+    {
+      "node_type": "person",
+      "label": "Jason Hao",
+      "title": "Technical Lead & Senior SAS Developer",
+      "employment_type": "staff",
+      "scope": "Primary technical contributor for the NOP Risk Model. Jason is responsible for all SAS development, data analysis, and production model deployment. He identified the 1900-01-01 legacy data decay artifact (11,240 records), conducted the Scenario B sensitivity analysis that drove the 15% geographic weight decision, wrote all production SAS code, and led the UAT parallel run. Primary contact for any technical questions about the model algorithm, SAS implementation, or data pipeline.",
+      "bio": "Jason is the most experienced SAS developer on the team and the de facto technical authority on the risk scoring algorithm. His sensitivity analysis overturned Dr. Aris's initial Scenario A recommendation.",
+      "skills": "[\"sas_implementation\", \"data_hygiene\", \"risk_scoring\", \"model_validation\", \"sensitivity_analysis\", \"geographic_weight\", \"legacy_decay\"]",
+      "contact": "jason.hao@tc.gc.ca",
+      "team": "data_technical",
+      "id": "person:Jason Hao"
+    },
+    {
+      "node_type": "person",
+      "label": "Vicky",
+      "id": "person:Vicky"
+    },
+    {
+      "node_type": "person",
+      "label": "Roger",
+      "title": "Senior Analyst, QA",
+      "employment_type": "staff",
+      "scope": "Quality assurance for all SAS code and model outputs. Roger runs UAT parallel validation, verifies detection rate metrics, and signs off on performance benchmarks before production deployment. He reviews every SAS macro written by Jason and maintains the QA log. Contact for model validation results, UAT reports, and performance metrics.",
+      "bio": "Roger is the QA checkpoint between technical development and production deployment. His parallel run validation confirmed the new model's 18% improvement in detection rates.",
+      "skills": "[\"model_validation\", \"sas_implementation\", \"data_hygiene\", \"performance_metrics\"]",
+      "contact": "roger.sr@tc.gc.ca",
+      "team": "data_technical",
+      "id": "person:Roger"
+    },
+    {
+      "node_type": "person",
+      "label": "Dave",
+      "title": "Regional Inspector, Pacific Region",
+      "employment_type": "staff",
+      "scope": "Represents the Pacific regional perspective on inspection risk. Dave provides operational ground-truth on dangerous goods inspection priorities, with specific expertise in the Vancouver transload corridor and ERAP (Emergency Response Assistance Plan) site handling. He was the primary advocate for raising the geographic weight and raised the concern that ERAP sites must never be streamlined regardless of score.",
+      "bio": "Dave's regional experience shaped two key model decisions: the 15% geographic weight and the ERAP override rule. His pushback on Scenario A was instrumental in the team reconsidering the methodology.",
+      "skills": "[\"regional_safety\", \"geographic_weight\", \"erap_safety\", \"vancouver_corridor\", \"compliance_history\"]",
+      "contact": "dave.inspector@tc.gc.ca",
+      "team": "nop_project",
+      "id": "person:Dave"
+    },
+    {
+      "node_type": "person",
+      "label": "Marc",
+      "title": "Director, Transportation Safety Programs",
+      "employment_type": "staff",
+      "scope": "Executive sponsor and final decision authority for the NOP Risk Model project. Marc holds budget approval authority and signed off on both the 15% geographic weight (Scenario B) and the STRL-2026 streamlining filter. Responsible for ensuring the project meets Treasury Board Secretariat directives on automated decision-making.",
+      "bio": "Marc approved the final model configuration after reviewing Jason's sensitivity analysis and the team's scenario comparison. His mandate was zero budget growth — the streamlining filter was introduced specifically to satisfy this constraint.",
+      "skills": "[\"decision_making\", \"budget_neutrality\", \"project_governance\", \"audit_compliance\"]",
+      "contact": "marc.dir@tc.gc.ca",
+      "team": "",
+      "id": "person:Marc"
+    },
+    {
+      "node_type": "person",
+      "label": "Carolyn",
+      "title": "Data Management Manager",
+      "employment_type": "staff",
+      "scope": "Owns the TDG_CORE database and data dictionary. Carolyn leads data governance for the project — she is the primary authority on field definitions, schema changes, and data quality standards. She led the remediation of the 1900-01-01 legacy date artifact and manages the Data & Technical Sub-team. Contact for any questions about the TDG_CORE schema, data dictionary, or data governance policy.",
+      "bio": "Carolyn manages the underlying data infrastructure that feeds the risk model. Her team's discovery and cleanup of the legacy decay issue was a prerequisite for the model rebuild.",
+      "skills": "[\"data_hygiene\", \"data_dictionary\", \"audit_compliance\", \"performance_metrics\", \"legacy_decay\"]",
+      "contact": "carolyn.mgr@tc.gc.ca",
+      "team": "data_technical",
+      "id": "person:Carolyn"
+    },
+    {
+      "node_type": "topic",
+      "label": "decision_making",
+      "id": "topic:decision_making"
+    },
+    {
+      "node_type": "topic",
+      "label": "compliance_history",
+      "id": "topic:compliance_history"
+    },
+    {
+      "node_type": "topic",
+      "label": "performance_metrics",
+      "id": "topic:performance_metrics"
+    },
+    {
+      "node_type": "topic",
+      "label": "sensitivity_analysis",
+      "id": "topic:sensitivity_analysis"
+    },
+    {
+      "node_type": "topic",
+      "label": "regional_safety",
+      "id": "topic:regional_safety"
+    },
+    {
+      "node_type": "topic",
+      "label": "risk_scoring",
+      "id": "topic:risk_scoring"
+    },
+    {
+      "node_type": "topic",
+      "label": "geographic_weight",
+      "id": "topic:geographic_weight"
+    },
+    {
+      "node_type": "topic",
+      "label": "legacy_decay",
+      "id": "topic:legacy_decay"
+    },
+    {
+      "node_type": "topic",
+      "label": "model_validation",
+      "id": "topic:model_validation"
+    },
+    {
+      "node_type": "topic",
+      "label": "class3_flammable",
+      "id": "topic:class3_flammable"
+    },
+    {
+      "node_type": "topic",
+      "label": "audit_compliance",
+      "id": "topic:audit_compliance"
+    },
+    {
+      "node_type": "topic",
+      "label": "data_dictionary",
+      "id": "topic:data_dictionary"
+    },
+    {
+      "node_type": "topic",
+      "label": "data_hygiene",
+      "id": "topic:data_hygiene"
+    },
+    {
+      "node_type": "topic",
+      "label": "expert_profiling",
+      "id": "topic:expert_profiling"
+    },
+    {
+      "node_type": "topic",
+      "label": "budget_neutrality",
+      "id": "topic:budget_neutrality"
+    },
+    {
+      "node_type": "topic",
+      "label": "project_governance",
+      "id": "topic:project_governance"
+    },
+    {
+      "node_type": "topic",
+      "label": "incident_response",
+      "id": "topic:incident_response"
+    },
+    {
+      "node_type": "topic",
+      "label": "vancouver_corridor",
+      "id": "topic:vancouver_corridor"
+    },
+    {
+      "node_type": "topic",
+      "label": "stakeholder_alignment",
+      "id": "topic:stakeholder_alignment"
+    },
+    {
+      "node_type": "topic",
+      "label": "sas_implementation",
+      "id": "topic:sas_implementation"
+    },
+    {
+      "node_type": "topic",
+      "label": "erap_safety",
+      "id": "topic:erap_safety"
+    },
+    {
+      "node_type": "topic",
+      "label": "policy_compliance",
+      "id": "topic:policy_compliance"
+    },
+    {
+      "node_type": "topic",
+      "label": "viya_migration",
+      "id": "topic:viya_migration"
+    },
+    {
+      "node_type": "topic",
+      "label": "streamlining",
+      "id": "topic:streamlining"
+    },
+    {
+      "node_type": "phase",
+      "label": "review",
+      "id": "phase:review"
+    },
+    {
+      "node_type": "phase",
+      "label": "operations",
+      "id": "phase:operations"
+    },
+    {
+      "node_type": "phase",
+      "label": "initiation",
+      "id": "phase:initiation"
+    },
+    {
+      "node_type": "phase",
+      "label": "development",
+      "id": "phase:development"
+    },
+    {
+      "node_type": "phase",
+      "label": "implementation",
+      "id": "phase:implementation"
+    },
+    {
+      "node_type": "phase",
+      "label": "audit",
+      "id": "phase:audit"
+    },
+    {
+      "node_type": "phase",
+      "label": "closeout",
+      "id": "phase:closeout"
+    },
+    {
+      "node_type": "phase",
+      "label": "approval",
+      "id": "phase:approval"
+    },
+    {
+      "node_type": "phase",
+      "label": "planning",
+      "id": "phase:planning"
+    },
+    {
+      "node_type": "team",
+      "label": "NOP Risk Model Project Team",
+      "team_id": "nop_project",
+      "goal": "Modernize the dangerous goods site inspection risk scoring model to improve detection rates, reduce false negatives, and maintain budget neutrality through the STRL-2026 streamlining filter.",
+      "description": "Cross-functional team responsible for the 2026-27 modernization of the National Occupational Profile (NOP) risk model used to prioritize dangerous goods site inspections across Canada. The team rebuilt the model from a failing 2015 baseline (14% false negative rate) to a fully compliant, audited production system.",
+      "lead": "Sean",
+      "id": "team:nop_project"
+    },
+    {
+      "node_type": "team",
+      "label": "Data & Technical Sub-team",
+      "team_id": "data_technical",
+      "goal": "Own TDG_CORE database integrity, SAS model implementation, and all data governance for the risk model.",
+      "description": "Responsible for data quality, model coding, and technical validation. This sub-team identified and remediated the 1900-01-01 legacy data decay issue affecting 11,240 records, produced the production SAS model, and ran UAT parallel validation before go-live.",
+      "lead": "Carolyn",
+      "id": "team:data_technical"
+    }
+  ],
+  "edges": [
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-001",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-001",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-001",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-001",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-001",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-002",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-002",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-002",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-002",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-002",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-003",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-003",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-003",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-003",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-003",
+      "target": "phase:initiation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-004",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-004",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-004",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-004",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-004",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-005",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-005",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-005",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-005",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-005",
+      "target": "phase:initiation",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-006",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-006",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-006",
+      "target": "topic:expert_profiling",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-006",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-006",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-006",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-007",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-007",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-007",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-007",
+      "target": "topic:erap_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-007",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-007",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-008",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-008",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-008",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-008",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-008",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-008",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-009",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-009",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-009",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-009",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-009",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-009",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-010",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-010",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-010",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-010",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-010",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-010",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-011",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-011",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-011",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-011",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-011",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-011",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-012-V1",
+      "target": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012-V1",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012-V1",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012-V1",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012-V1",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-012-V1",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "SUPERSEDES",
+      "source": "doc:MSG-012-V1",
+      "target": "doc:MSG-012",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-012",
+      "target": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-012",
+      "target": "topic:vancouver_corridor",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-012",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-013-V1",
+      "target": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013-V1",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013-V1",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013-V1",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013-V1",
+      "target": "topic:vancouver_corridor",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-013-V1",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "SUPERSEDES",
+      "source": "doc:MSG-013-V1",
+      "target": "doc:MSG-013",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-013",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-013",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-014",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-014",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-014",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-014",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-014",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-014",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-014",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-015",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-015",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-015",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-015",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-015",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-016-V2",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016-V2",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016-V2",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016-V2",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016-V2",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016-V2",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-016-V2",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "SUPERSEDES",
+      "source": "doc:MSG-016-V2",
+      "target": "doc:MSG-016",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-016",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-016",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-016",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-017",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-017",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-017",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-017",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-017",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-017",
+      "target": "phase:approval",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-018",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-018",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-018",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-018",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-018",
+      "target": "phase:implementation",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-019-V2",
+      "target": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-019-V2",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019-V2",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019-V2",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019-V2",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019-V2",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-019-V2",
+      "target": "phase:approval",
+      "key": 0
+    },
+    {
+      "rel": "SUPERSEDES",
+      "source": "doc:MSG-019-V2",
+      "target": "doc:MSG-019",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-019",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-019",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-019",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-020",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-020",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-020",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-020",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-020",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-021",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-021",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-021",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-021",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-021",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-021",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-021",
+      "target": "phase:implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-022",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-022",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-022",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-022",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-022",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-023",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-023",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-023",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-023",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-023",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-023",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-023",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-023",
+      "target": "phase:approval",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-024",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-024",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-024",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-024",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-024",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-024",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-024",
+      "target": "phase:approval",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-025",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-025",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-025",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-025",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-025",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-025",
+      "target": "phase:closeout",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-026",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-026",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-026",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-026",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-026",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-026",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-027",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-027",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-027",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-027",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-027",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-027",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-027",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-028",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-028",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-028",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-028",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-028",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-028",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-029",
+      "target": "doc:work_North_York_Incident_Report_Summary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-029",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-029",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-029",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-029",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-029",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-030",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-030",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-030",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-030",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-030",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-030",
+      "target": "phase:closeout",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-031",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-031",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-031",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-031",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-031",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-031",
+      "target": "phase:closeout",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-032",
+      "target": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-032",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-032",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-032",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-032",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-032",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-033",
+      "target": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-033",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-033",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-033",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-033",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-033",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-034",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-034",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-034",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-034",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-034",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-034",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-034",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-034",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-035",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-035",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-035",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-035",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-035",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-035",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-036",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-036",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-036",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-036",
+      "target": "topic:erap_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-036",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-036",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-036",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-037",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-037",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-037",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-037",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-037",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-037",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-038-V1",
+      "target": "doc:work_North_York_Incident_Report_Summary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038-V1",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038-V1",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038-V1",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038-V1",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-038-V1",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "SUPERSEDES",
+      "source": "doc:MSG-038-V1",
+      "target": "doc:MSG-038",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-038",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-038",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-039",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-039",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-039",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-039",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-039",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-039",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-040",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-040",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-040",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-040",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-040",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-041",
+      "target": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-041",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-041",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-041",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-041",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-041",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-041",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-042",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-042",
+      "target": "doc:work_Conflict_Check_Report_v1_0",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-042",
+      "target": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-042",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-042",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-042",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-042",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-042",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-042",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-042",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-043",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-043",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-043",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-043",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-044",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-044",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-044",
+      "target": "topic:viya_migration",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-044",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-045",
+      "target": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-045",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-045",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-045",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-045",
+      "target": "topic:policy_compliance",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-045",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-046",
+      "target": "doc:work_2027_Trend_Watch_Class3",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-046",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-046",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-046",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-046",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-046",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-046",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-047",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-047",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-047",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-047",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-047",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-048",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-048",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-048",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-048",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-048",
+      "target": "phase:initiation",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MSG-049",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-049",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-049",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-049",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-049",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-049",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-050",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-050",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-050",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MSG-050",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MSG-050",
+      "target": "phase:closeout",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-001",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-001",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-001",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-001",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-001",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-002",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-002",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-002",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-002",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-002",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-003",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-003",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-003",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-003",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-003",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-003",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-003",
+      "target": "phase:initiation",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-004",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-004",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-004",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-004",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-004",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-004",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-005",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-005",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-005",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-005",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-005",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-005",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-005",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-006",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-006",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-006",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-006",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-006",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-006",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-006",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-006",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:MTG-007",
+      "target": "doc:work_North_York_Incident_Report_Summary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-007",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-007",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-007",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-007",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-007",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-008",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-008",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:MTG-008",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:MTG-008",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "topic:erap_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "target": "phase:approval",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "target": "phase:implementation",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "topic:erap_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "doc:work_2027_Trend_Watch_Class3",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "topic:incident_response",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "target": "topic:viya_migration",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "target": "phase:closeout",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_2027_Trend_Watch_Class3",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_2027_Trend_Watch_Class3",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_2027_Trend_Watch_Class3",
+      "target": "topic:incident_response",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_2027_Trend_Watch_Class3",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_2027_Trend_Watch_Class3",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_2027_Trend_Watch_Class3",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "target": "phase:implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_BC_Okanagan_Streamline_Audit_Data",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Conflict_Check_Report_v1_0",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Conflict_Check_Report_v1_0",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Conflict_Check_Report_v1_0",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Conflict_Check_Report_v1_0",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Conflict_Check_Report_v1_0",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Conflict_Check_Report_v1_0",
+      "target": "phase:implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Draft_Internal",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Draft_Internal",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Draft_Internal",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Draft_Internal",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_FY2026_Performance_Draft_Internal",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Metric_Final",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Metric_Final",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Metric_Final",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Metric_Final",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_FY2026_Performance_Metric_Final",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_FY2026_Performance_Metric_Final",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Impact_Summary_Table_v1_Aris_Draft",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "doc:MSG-016-V2",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "doc:work_Conflict_Check_Report_v1_0",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Internal_Audit_Memo_2027_01_Final",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "target": "topic:viya_migration",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "doc:MSG-008",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "doc:work_Impact_Summary_Table_v2_Jason_Sensitivity_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "target": "phase:implementation",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_North_York_Incident_Report_Summary",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "REFERENCES",
+      "source": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "target": "doc:MSG-008",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_TDG_CORE_Data_Dictionary_v2_1",
+      "target": "phase:development",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "target": "topic:incident_response",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "target": "topic:policy_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:guide_Internal_Audit_Guideline_ADS_202_B",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "target": "topic:policy_compliance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:guide_TBS_Directive_on_Automated_Decision_Making_v3",
+      "target": "phase:audit",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "target": "topic:vancouver_corridor",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:guide_Vancouver_Maritime_Review_May_2026",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_Reinforcement_Learning_Project_Proposal_1_1",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_Reinforcement_Learning_Project_Proposal_1_1",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:documents_Reinforcement_Learning_Project_Proposal_1_1",
+      "target": "phase:initiation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_10005533572_RFP_ENG",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_10005533572_RFP_ENG",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_10005533572_RFP_ENG",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:documents_10005533572_RFP_ENG",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_2671_AVERE_Improving_Audiovisu",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_2671_AVERE_Improving_Audiovisu",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:documents_2671_AVERE_Improving_Audiovisu",
+      "target": "phase:review",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:documents_25_58297_ACAN_M24_D_Building_Automation_System_BAS_Controller_Upgrade",
+      "target": "phase:operations",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:presentations_Legacy_PawPromise_Investor_Pitch",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:presentations_Legacy_PawPromise_Investor_Pitch",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:presentations_Legacy_PawPromise_Investor_Pitch",
+      "target": "phase:initiation",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_10081433_ACAN_EN_FR",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_10081433_ACAN_EN_FR",
+      "target": "topic:expert_profiling",
+      "key": 0
+    },
+    {
+      "rel": "TAGGED_WITH",
+      "source": "doc:documents_10081433_ACAN_EN_FR",
+      "target": "topic:policy_compliance",
+      "key": 0
+    },
+    {
+      "rel": "IN_PHASE",
+      "source": "doc:documents_10081433_ACAN_EN_FR",
+      "target": "phase:planning",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-001",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-002",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-005",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-006",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-008",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-009",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-010",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-011",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-012-V1",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-012",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-013",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-014",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-015",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-016-V2",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-016",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-017",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-018",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-019",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-020",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-021",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-022",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-023",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-024",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-025",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-026",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-027",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-028",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-029",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-030",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-031",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-032",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-033",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-034",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-035",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-036",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-037",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-038",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-039",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-040",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-041",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-042",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-043",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-045",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-046",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MSG-047",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-048",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-049",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MSG-050",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MTG-001",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MTG-002",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MTG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MTG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MTG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:MTG-007",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:MTG-008",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Sean",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Sean",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 6,
+      "source": "person:Sean",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 8,
+      "source": "person:Sean",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 6,
+      "source": "person:Sean",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 6,
+      "source": "person:Sean",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Sean",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Sean",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 5,
+      "source": "person:Sean",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Sean",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Sean",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Sean",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Sean",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Sean",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Sean",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Sean",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Sean",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "LEADS",
+      "source": "person:Sean",
+      "target": "team:nop_project",
+      "key": 0
+    },
+    {
+      "rel": "REPORTS_TO",
+      "source": "person:Sean",
+      "target": "person:Marc",
+      "key": 0
+    },
+    {
+      "rel": "MANAGES",
+      "source": "person:Sean",
+      "target": "person:Jason Hao",
+      "key": 0
+    },
+    {
+      "rel": "MANAGES",
+      "source": "person:Sean",
+      "target": "person:Carolyn",
+      "key": 0
+    },
+    {
+      "rel": "MANAGES",
+      "source": "person:Sean",
+      "target": "person:Dave",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Stephen",
+      "target": "doc:MSG-041",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Stephen",
+      "target": "doc:MSG-042",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Stephen",
+      "target": "doc:MTG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Stephen",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Stephen",
+      "target": "doc:meetings_Meeting_Minutes_2026_10_15_Audit_Interview",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Stephen",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Stephen",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Stephen",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Stephen",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. L. Henderson",
+      "target": "doc:guide_Env_Canada_Technical_Brief_Winter2026",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-008",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-009",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-011",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-012-V1",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-013-V1",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-013",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-016-V2",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-016",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-017",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-019-V2",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-019",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-021",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-024",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MSG-031",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MTG-003",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:MTG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:MTG-005",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dr. Aris",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dr. Aris",
+      "target": "doc:work_Algorithm_Methodology_v1_0_Draft",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Dr. Aris",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Dr. Aris",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 6,
+      "source": "person:Dr. Aris",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Dr. Aris",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 6,
+      "source": "person:Dr. Aris",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Dr. Aris",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 5,
+      "source": "person:Dr. Aris",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Dr. Aris",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Dr. Aris",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Dr. Aris",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Dr. Aris",
+      "target": "team:nop_project",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Judy",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Luc Trudel",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Luc Trudel",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-001",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-002",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-006",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-007",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-008",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-009",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-010",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-011",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-012-V1",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-012",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-013-V1",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-013",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-014",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-015",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-016-V2",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-016",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-017",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-018",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-019-V2",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-019",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-020",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-021",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-022",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-023",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-024",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-025",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-026",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-027",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-028",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-029",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-030",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-031",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-032",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-033",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-034",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-035",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-036",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-037",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-038-V1",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-038",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-039",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-040",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-041",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-042",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-043",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-044",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-045",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-046",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-047",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-048",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-049",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MSG-050",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-001",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-002",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-005",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-006",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:MTG-008",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_2027_Trend_Watch_Class3",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_Algorithm_Methodology_v2_0_Final",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_Conflict_Check_Report_v1_0",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_FY2026_Performance_Draft_Internal",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_FY2026_Performance_Metric_Final",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Jason Hao",
+      "target": "doc:work_Maintenance_Manual_Section_4_Recalibration",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_NOP_Risk_Model_PROD_AUG01",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Jason Hao",
+      "target": "doc:work_Transport_Canada_NOP_2026_27_Modernization",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Jason Hao",
+      "target": "topic:compliance_history",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Jason Hao",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 16,
+      "source": "person:Jason Hao",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 10,
+      "source": "person:Jason Hao",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Jason Hao",
+      "target": "topic:data_dictionary",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 14,
+      "source": "person:Jason Hao",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 7,
+      "source": "person:Jason Hao",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Jason Hao",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 15,
+      "source": "person:Jason Hao",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 14,
+      "source": "person:Jason Hao",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Jason Hao",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 15,
+      "source": "person:Jason Hao",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Jason Hao",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Jason Hao",
+      "target": "topic:erap_safety",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 5,
+      "source": "person:Jason Hao",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Jason Hao",
+      "target": "topic:class3_flammable",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Jason Hao",
+      "target": "topic:incident_response",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Jason Hao",
+      "target": "topic:legacy_decay",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Jason Hao",
+      "target": "team:nop_project",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Jason Hao",
+      "target": "team:data_technical",
+      "key": 0
+    },
+    {
+      "rel": "REPORTS_TO",
+      "source": "person:Jason Hao",
+      "target": "person:Sean",
+      "key": 0
+    },
+    {
+      "rel": "MANAGES",
+      "source": "person:Jason Hao",
+      "target": "person:Roger",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Vicky",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-001",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-002",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-006",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-008",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-009",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Roger",
+      "target": "doc:MSG-010",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-011",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-014",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-016",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-018",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-021",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-024",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-025",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-026",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-031",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-032",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-033",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Roger",
+      "target": "doc:MSG-034",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-035",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-036",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Roger",
+      "target": "doc:MSG-037",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-040",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-042",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Roger",
+      "target": "doc:MSG-044",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-045",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-046",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-047",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-049",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MSG-050",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MTG-001",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MTG-002",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MTG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MTG-006",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Roger",
+      "target": "doc:MTG-008",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Roger",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Roger",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Roger",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Roger",
+      "target": "team:nop_project",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Roger",
+      "target": "team:data_technical",
+      "key": 0
+    },
+    {
+      "rel": "REPORTS_TO",
+      "source": "person:Roger",
+      "target": "person:Jason Hao",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dave",
+      "target": "doc:MSG-012",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dave",
+      "target": "doc:MSG-013-V1",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:MSG-013",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:MSG-016-V2",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:MSG-017",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dave",
+      "target": "doc:MSG-020",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:MSG-021",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dave",
+      "target": "doc:MSG-022",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Dave",
+      "target": "doc:MSG-028",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:MSG-030",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:MTG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Dave",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Dave",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 5,
+      "source": "person:Dave",
+      "target": "topic:regional_safety",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Dave",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Dave",
+      "target": "topic:vancouver_corridor",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Dave",
+      "target": "topic:stakeholder_alignment",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Dave",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Dave",
+      "target": "team:nop_project",
+      "key": 0
+    },
+    {
+      "rel": "REPORTS_TO",
+      "source": "person:Dave",
+      "target": "person:Sean",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-004",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Marc",
+      "target": "doc:MSG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-012",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Marc",
+      "target": "doc:MSG-015",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-017",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-023",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Marc",
+      "target": "doc:MSG-024",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-027",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-029",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Marc",
+      "target": "doc:MSG-030",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-038",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-039",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MSG-048",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Marc",
+      "target": "doc:MSG-050",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MTG-002",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Marc",
+      "target": "doc:MTG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:MTG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_05_Project_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Marc",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Marc",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 6,
+      "source": "person:Marc",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Marc",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Marc",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Marc",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Marc",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Marc",
+      "target": "topic:sas_implementation",
+      "key": 0
+    },
+    {
+      "rel": "MANAGES",
+      "source": "person:Marc",
+      "target": "person:Sean",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-003",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-004",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-005",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-006",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-012",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-015",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-016-V2",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-016",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-017",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-019",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-022",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-023",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-024",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-027",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-029",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-030",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-031",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-035",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-038-V1",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-038",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-039",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-043",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-045",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-047",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-048",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-049",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MSG-050",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MTG-002",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MTG-003",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:MTG-005",
+      "key": 0
+    },
+    {
+      "rel": "AUTHORED",
+      "source": "person:Carolyn",
+      "target": "doc:MTG-007",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2026_06_12_Technical_Review",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2026_07_08_Technical_Implementation",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2027_01_20_Trend_Analysis",
+      "key": 0
+    },
+    {
+      "rel": "CONTRIBUTED_TO",
+      "source": "person:Carolyn",
+      "target": "doc:meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Carolyn",
+      "target": "topic:budget_neutrality",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Carolyn",
+      "target": "topic:data_hygiene",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 5,
+      "source": "person:Carolyn",
+      "target": "topic:risk_scoring",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Carolyn",
+      "target": "topic:audit_compliance",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Carolyn",
+      "target": "topic:decision_making",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 4,
+      "source": "person:Carolyn",
+      "target": "topic:geographic_weight",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Carolyn",
+      "target": "topic:streamlining",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Carolyn",
+      "target": "topic:model_validation",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 3,
+      "source": "person:Carolyn",
+      "target": "topic:sensitivity_analysis",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Carolyn",
+      "target": "topic:performance_metrics",
+      "key": 0
+    },
+    {
+      "rel": "EXPERT_IN",
+      "doc_count": 2,
+      "source": "person:Carolyn",
+      "target": "topic:project_governance",
+      "key": 0
+    },
+    {
+      "rel": "MEMBER_OF",
+      "source": "person:Carolyn",
+      "target": "team:nop_project",
+      "key": 0
+    },
+    {
+      "rel": "LEADS",
+      "source": "person:Carolyn",
+      "target": "team:data_technical",
+      "key": 0
+    },
+    {
+      "rel": "REPORTS_TO",
+      "source": "person:Carolyn",
+      "target": "person:Sean",
+      "key": 0
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "milestones": [
+    {
+      "date_range": "May 11\u201313, 2026",
+      "title": "Preliminary Inquiry Leads to Formal Model Re-evaluation",
+      "summary": "Sean initiated an inquiry into the NOP Risk Score Model's efficacy, which quickly escalated into a formal proposal for re-evaluation. This marked the beginning of the project due to concerns about model validation and compliance history.",
+      "participants": [
+        "Sean",
+        "Jason Hao",
+        "Roger",
+        "Carolyn"
+      ],
+      "phase": "initiation",
+      "docs": [
+        "MSG-001",
+        "MTG-001",
+        "MSG-002",
+        "MSG-003"
+      ]
+    },
+    {
+      "date_range": "May 14\u201318, 2026",
+      "title": "Strategic Directive Issued, Project Scoping Commences",
+      "summary": "Marc issued a strategic directive to modernize the NOP Risk Model, solidifying project governance. Carolyn then organized a project scoping meeting to define the project's boundaries and objectives, focusing on data hygiene and decision-making.",
+      "participants": [
+        "Marc",
+        "Carolyn",
+        "Sean",
+        "Jason Hao",
+        "Roger"
+      ],
+      "phase": "planning",
+      "docs": [
+        "MSG-004",
+        "MSG-005",
+        "MTG-002"
+      ]
+    },
+    {
+      "date_range": "May 25 \u2013 June 5, 2026",
+      "title": "Consultancy Awarded, Project Kick-off and Data Requirements",
+      "summary": "A consultancy was awarded to Dr. Aris, who was onboarded to the project. The project officially kicked off, and initial data requirements were defined, focusing on data dictionaries and compliance history to ensure a solid foundation for the model re-evaluation.",
+      "participants": [
+        "Sean",
+        "Jason Hao",
+        "Roger",
+        "Carolyn",
+        "Dr. Aris",
+        "Marc",
+        "Dave",
+        "Judy"
+      ],
+      "phase": "planning",
+      "docs": [
+        "MSG-006",
+        "MSG-007",
+        "MTG-003",
+        "meetings_Meeting_Minutes_2026_06_05_Project_Kickoff"
+      ]
+    },
+    {
+      "date_range": "June 8\u201312, 2026",
+      "title": "Preliminary Results and Field Concerns Emerge",
+      "summary": "Jason Hao presented preliminary correlation results using facility age as a proxy, but Dave raised concerns from a field perspective regarding the draft risk model. This highlighted the need to balance model precision with practical field considerations, particularly concerning geographic weighting.",
+      "participants": [
+        "Jason Hao",
+        "Dr. Aris",
+        "Sean",
+        "Roger",
+        "Dave",
+        "Carolyn",
+        "Marc"
+      ],
+      "phase": "review",
+      "docs": [
+        "MSG-011",
+        "MSG-012",
+        "MSG-013",
+        "MSG-012-V1"
+      ]
+    },
+    {
+      "date_range": "June 15\u201317, 2026",
+      "title": "Sensitivity Analysis and Model Weighting Decision",
+      "summary": "Jason Hao conducted a sensitivity analysis on geographic impact, leading to a critical review of model weighting and safety discrepancies. A final decision on model weighting was made after a project review, balancing budget neutrality with stakeholder alignment.",
+      "participants": [
+        "Jason Hao",
+        "Sean",
+        "Dr. Aris",
+        "Roger",
+        "Carolyn",
+        "Dave",
+        "Marc"
+      ],
+      "phase": "approval",
+      "docs": [
+        "MSG-016-V2",
+        "MSG-016",
+        "meetings_Meeting_Minutes_2026_06_15_Scenario_Alignment",
+        "MSG-017",
+        "MTG-005",
+        "meetings_Meeting_Minutes_2026_06_17_Decision_Final_Signoff"
+      ]
+    },
+    {
+      "date_range": "June 18\u201319, 2026",
+      "title": "Implementation and Final Model Documentation Delivery",
+      "summary": "Jason Hao implemented low-risk streamlining in SAS, and Dr. Aris delivered the final model documentation and methodology report. This marked the completion of the model development phase and prepared the project for implementation.",
+      "participants": [
+        "Jason Hao",
+        "Sean",
+        "Roger",
+        "Dr. Aris",
+        "Carolyn"
+      ],
+      "phase": "implementation",
+      "docs": [
+        "MSG-018",
+        "MSG-019-V2",
+        "MSG-019",
+        "work_Algorithm_Methodology_v2_0_Final"
+      ]
+    },
+    {
+      "date_range": "July 5\u20138, 2026",
+      "title": "Ontario Pilot Results and Technical Implementation",
+      "summary": "Jason Hao presented the results of the Ontario pilot, showcasing the performance of the new risk model. A technical implementation meeting was held to discuss the pilot results and address any remaining issues before national roll-out.",
+      "participants": [
+        "Jason Hao",
+        "Sean",
+        "Dave",
+        "Roger",
+        "Dr. Aris",
+        "Carolyn",
+        "Vicky",
+        "Luc Trudel"
+      ],
+      "phase": "implementation",
+      "docs": [
+        "work_Conflict_Check_Report_v1_0",
+        "MSG-021",
+        "MSG-022",
+        "meetings_Meeting_Minutes_2026_07_08_Technical_Implementation"
+      ]
+    },
+    {
+      "date_range": "July 15\u201317, 2026",
+      "title": "Formal Request and Approval for National Roll-out",
+      "summary": "Carolyn formally requested a national roll-out of the TDG Risk Model for 2026-27, which was subsequently approved by Marc. This signified the successful completion of the project's development and testing phases, leading to its deployment across the country.",
+      "participants": [
+        "Carolyn",
+        "Marc",
+        "Sean",
+        "Jason Hao",
+        "Roger",
+        "Dr. Aris"
+      ],
+      "phase": "approval",
+      "docs": [
+        "MSG-023",
+        "MSG-024",
+        "MSG-025"
+      ]
+    },
+    {
+      "date_range": "August 10 \u2013 September 10, 2026",
+      "title": "Post-Launch Monitoring and Audit Committee Preparation",
+      "summary": "Jason Hao initiated post-launch data monitoring, and Carolyn began preparing for the Fall Audit Committee review. Dave reported positive field outcomes with the new risk scores, indicating early success in improving safety oversight.",
+      "participants": [
+        "Jason Hao",
+        "Sean",
+        "Roger",
+        "Carolyn",
+        "Marc",
+        "Dave",
+        "Stephen"
+      ],
+      "phase": "operations",
+      "docs": [
+        "MSG-026",
+        "MSG-027",
+        "MSG-028",
+        "MSG-029",
+        "MTG-007",
+        "MSG-030"
+      ]
+    },
+    {
+      "date_range": "March 10, 2027",
+      "title": "Project Closeout and Viya Kickoff",
+      "summary": "The project officially closed out, with a meeting held to discuss the transition and kick off the SAS Viya migration. This marked the end of the modernization project and the beginning of efforts to upgrade the system's infrastructure.",
+      "participants": [
+        "Marc",
+        "Sean",
+        "Jason Hao",
+        "Dr. Aris",
+        "Luc Trudel",
+        "Stephen",
+        "Carolyn"
+      ],
+      "phase": "closeout",
+      "docs": [
+        "meetings_Meeting_Minutes_2027_03_10_Project_Closeout_Viya_Kickoff"
+      ]
+    },
+    {
+      "date_range": "May 10\u201320, 2027",
+      "title": "Q2 Recalibration and Project Handover",
+      "summary": "Jason Hao initiated the Q2 model recalibration due to shifts in Class 3 transport trends. Project handover sessions were held in preparation for the transition of NOP maintenance to the GuardClaw AI agent, marking a shift towards automated oversight.",
+      "participants": [
+        "Jason Hao",
+        "Sean",
+        "Roger",
+        "Carolyn",
+        "Marc"
+      ],
+      "phase": "operations",
+      "docs": [
+        "MSG-046",
+        "MSG-047",
+        "work_FY2026_Performance_Metric_Final",
+        "work_Transport_Canada_NOP_2026_27_Modernization",
+        "MSG-048",
+        "MSG-049",
+        "MTG-008",
+        "MSG-050"
+      ]
+    }
+  ],
+  "generated_at": "2026-03-15T19:05:05.110765+00:00"
+}
