@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign in — Team Intelligence</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #0f172a;
+      --card:     #1e293b;
+      --border:   #334155;
+      --primary:  #2563eb;
+      --primary-h:#1d4ed8;
+      --text:     #f1f5f9;
+      --muted:    #94a3b8;
+      --subtle:   #475569;
+    }
+
+    html, body {
+      height: 100%;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    /* subtle grid background */
+    body::before {
+      content: "";
+      position: fixed; inset: 0;
+      background-image:
+        linear-gradient(rgba(37,99,235,.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(37,99,235,.04) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+    }
+
+    .login-wrap {
+      width: 100%;
+      max-width: 420px;
+      padding: 24px;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Brand */
+    .brand {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 36px;
+    }
+    .brand-mark {
+      width: 40px; height: 40px;
+      background: var(--primary);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 15px; font-weight: 800; letter-spacing: -.5px;
+      color: #fff;
+    }
+    .brand-name  { font-size: 18px; font-weight: 700; }
+    .brand-sub   { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+    /* Card */
+    .login-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 28px;
+      box-shadow: 0 24px 64px rgba(0,0,0,.4);
+    }
+
+    .card-title {
+      font-size: 16px; font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .card-sub {
+      font-size: 13px; color: var(--muted);
+      margin-bottom: 24px;
+    }
+
+    /* Role selector */
+    .role-label {
+      font-size: 10.5px; font-weight: 600; letter-spacing: .08em;
+      text-transform: uppercase; color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .role-pills {
+      display: flex; gap: 6px;
+      margin-bottom: 24px;
+    }
+    .role-pill {
+      flex: 1; padding: 9px 0;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: none;
+      color: var(--muted);
+      font-size: 12.5px; font-weight: 500;
+      cursor: pointer;
+      transition: all .15s;
+      display: flex; flex-direction: column; align-items: center; gap: 4px;
+    }
+    .role-pill .role-icon { font-size: 18px; }
+    .role-pill:hover     { border-color: #60a5fa; color: #93c5fd; }
+    .role-pill.active    { background: rgba(37,99,235,.15); border-color: var(--primary); color: #93c5fd; }
+    .role-desc {
+      font-size: 11px; color: var(--muted);
+      line-height: 1.5; min-height: 44px;
+      margin-bottom: 20px;
+      padding: 10px 12px;
+      background: rgba(255,255,255,.03);
+      border-radius: 7px;
+      border-left: 2px solid var(--primary);
+    }
+
+    /* User picker */
+    .user-label {
+      font-size: 10.5px; font-weight: 600; letter-spacing: .08em;
+      text-transform: uppercase; color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .user-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+      margin-bottom: 24px;
+    }
+    .user-btn {
+      display: flex; align-items: center; gap: 9px;
+      padding: 9px 11px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: none;
+      cursor: pointer;
+      text-align: left;
+      transition: all .15s;
+    }
+    .user-btn:hover    { border-color: #60a5fa; background: rgba(37,99,235,.06); }
+    .user-btn.selected { border-color: var(--primary); background: rgba(37,99,235,.12); }
+
+    .user-avatar {
+      width: 30px; height: 30px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 11px; color: #fff;
+      flex-shrink: 0;
+    }
+    .user-name  { font-size: 12.5px; font-weight: 600; color: var(--text); display: block; }
+    .user-title { font-size: 10.5px; color: var(--muted); display: block; margin-top: 1px; line-height: 1.3; }
+
+    /* Sign in button */
+    .signin-btn {
+      width: 100%;
+      padding: 12px;
+      background: var(--primary);
+      border: none; border-radius: 9px;
+      color: #fff; font-size: 14px; font-weight: 600;
+      cursor: pointer;
+      transition: background .15s, opacity .15s;
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+    }
+    .signin-btn:hover    { background: var(--primary-h); }
+    .signin-btn:disabled { opacity: .4; cursor: not-allowed; }
+
+    /* Footer */
+    .login-footer {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 11.5px; color: var(--subtle);
+    }
+
+    /* Access tag */
+    .access-tag {
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 2px 8px; border-radius: 4px;
+      font-size: 10px; font-weight: 700; text-transform: uppercase;
+    }
+    .access-full    { background: rgba(34,197,94,.15);  color: #86efac; }
+    .access-limited { background: rgba(251,191,36,.15); color: #fcd34d; }
+  </style>
+</head>
+<body>
+<div class="login-wrap">
+
+  <div class="brand">
+    <div class="brand-mark">TI</div>
+    <div>
+      <div class="brand-name">Team Intelligence</div>
+      <div class="brand-sub">Transportation of Dangerous Goods · Transport Canada</div>
+    </div>
+  </div>
+
+  <div class="login-card">
+    <div class="card-title">Sign in to continue</div>
+    <div class="card-sub">Select your access level and identity.</div>
+
+    <!-- Role -->
+    <div class="role-label">Access Level</div>
+    <div class="role-pills">
+      <button class="role-pill active" data-role="team_member">
+        <span class="role-icon">🏗️</span>
+        Team Member
+      </button>
+      <button class="role-pill" data-role="branch_viewer">
+        <span class="role-icon">🌐</span>
+        Branch Viewer
+      </button>
+    </div>
+    <div class="role-desc" id="roleDesc">
+      Full access to project documents, decisions, contributor history, knowledge graph, and team directory.
+    </div>
+
+    <!-- User -->
+    <div class="user-label" id="userLabel">Sign in as</div>
+    <div class="user-grid" id="userGrid"></div>
+
+    <button class="signin-btn" id="signinBtn" disabled>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
+      Select a profile to continue
+    </button>
+  </div>
+
+  <div class="login-footer">
+    Internal demo system · Not for external distribution
+  </div>
+</div>
+
+<script>
+const AVATAR_COLORS = ["#6366f1","#3b82f6","#8b5cf6","#10b981","#f59e0b","#ef4444","#14b8a6","#f97316"];
+
+const TEAM_USERS = [
+  { name: "Marc Tremblay",    title: "Director, Transportation Safety Programs", initials: "MT" },
+  { name: "Sean Okafor",      title: "Senior Program Analyst",                   initials: "SO" },
+  { name: "Jason Hao",        title: "Data Analyst",                             initials: "JH" },
+  { name: "Carolyn Park",     title: "Data Management Manager",                 initials: "CP" },
+  { name: "Priya Nair",       title: "Data Engineering Manager",                initials: "PN" },
+  { name: "Isabelle Fontaine",title: "Policy Advisor, Data Infrastructure",     initials: "IF" },
+];
+
+const BRANCH_USERS = [
+  { name: "External Reviewer",  title: "Branch Stakeholder",  initials: "ER" },
+  { name: "Regional Director",  title: "Pacific Region",      initials: "RD" },
+];
+
+const ROLE_DESC = {
+  team_member:   "Full access to project documents, decisions, contributor history, knowledge graph, and team directory.",
+  branch_viewer: "Read-only access to project summaries and responsible contact names. Detailed documents and internal decisions are restricted.",
+};
+
+let selectedRole = "team_member";
+let selectedUser = null;
+
+function avatarColor(name) {
+  let hash = 0;
+  for (let i = 0; i < name.length; i++) hash = name.charCodeAt(i) + ((hash << 5) - hash);
+  return AVATAR_COLORS[Math.abs(hash) % AVATAR_COLORS.length];
+}
+
+function renderUsers(users) {
+  const grid = document.getElementById("userGrid");
+  grid.innerHTML = "";
+  selectedUser = null;
+  updateBtn();
+
+  users.forEach(u => {
+    const btn = document.createElement("button");
+    btn.className = "user-btn";
+    btn.dataset.name = u.name;
+    btn.innerHTML = `
+      <div class="user-avatar" style="background:${avatarColor(u.name)}">${u.initials}</div>
+      <div>
+        <span class="user-name">${u.name}</span>
+        <span class="user-title">${u.title}</span>
+      </div>`;
+    btn.addEventListener("click", () => selectUser(u, btn));
+    grid.appendChild(btn);
+  });
+}
+
+function selectUser(u, btn) {
+  document.querySelectorAll(".user-btn").forEach(b => b.classList.remove("selected"));
+  btn.classList.add("selected");
+  selectedUser = u;
+  updateBtn();
+}
+
+function updateBtn() {
+  const btn = document.getElementById("signinBtn");
+  if (selectedUser) {
+    btn.disabled = false;
+    btn.innerHTML = `
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
+      Sign in as ${selectedUser.name}`;
+  } else {
+    btn.disabled = true;
+    btn.innerHTML = `
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
+      Select a profile to continue`;
+  }
+}
+
+// Role pills
+document.querySelectorAll(".role-pill").forEach(pill => {
+  pill.addEventListener("click", () => {
+    document.querySelectorAll(".role-pill").forEach(p => p.classList.remove("active"));
+    pill.classList.add("active");
+    selectedRole = pill.dataset.role;
+    document.getElementById("roleDesc").textContent = ROLE_DESC[selectedRole];
+    renderUsers(selectedRole === "team_member" ? TEAM_USERS : BRANCH_USERS);
+  });
+});
+
+// Sign in
+document.getElementById("signinBtn").addEventListener("click", () => {
+  if (!selectedUser) return;
+  sessionStorage.removeItem("ti_project");
+  sessionStorage.setItem("ti_session", JSON.stringify({
+    name:     selectedUser.name,
+    initials: selectedUser.initials,
+    title:    selectedUser.title,
+    role:     selectedRole,
+    color:    avatarColor(selectedUser.name),
+    ts:       Date.now(),
+  }));
+  window.location.href = "/dashboard";
+});
+
+// Init
+renderUsers(TEAM_USERS);
+</script>
+</body>
+</html>

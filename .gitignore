@@ -1,0 +1,26 @@
+# ── Sensitive document data (never push raw government docs) ──────
+Email/
+Meetings/
+Work/
+guide/
+uploads/
+
+# ── Generated data (derived from documents) ───────────────────────
+demo_system/python/cache/
+demo_system/python/chroma_db/
+demo_system/python/logs/
+
+# ── Secrets ───────────────────────────────────────────────────────
+demo_system/python/.env
+.env
+
+# ── Dependencies & build artifacts ───────────────────────────────
+demo_system/node/node_modules/
+demo_system/python/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# ── OS ────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

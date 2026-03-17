@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openpyxl
+python-pptx
+pandas
+google-generativeai
+chromadb
+python-dotenv
+networkx
+pdfplumber
+python-docx
