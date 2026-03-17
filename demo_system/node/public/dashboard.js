@@ -246,7 +246,7 @@ function buildNavTree() {
   tree.innerHTML = "";
 
   // TDG top-level entry
-  const tdgItem = navItem("🏛️", "TDG", () => navigate("branch", null, null));
+  const tdgItem = navItem(null, "TDG", () => navigate("branch", null, null));
   tdgItem.dataset.navLevel = "branch";
   tree.appendChild(tdgItem);
 
@@ -433,12 +433,12 @@ function renderBranchLevel(root) {
   card.className = "level-card branch-card";
   card.innerHTML = `
     <div class="lc-header">
-      <div class="lc-avatar branch-avatar">🏛️</div>
+      <div class="lc-avatar" style="background:${avatarColor(ORG.branch.name)}">TDG</div>
       <div class="lc-title-block">
         <div class="lc-name">${esc(ORG.branch.name)}</div>
         <div class="lc-title">${esc(ORG.branch.org)}</div>
       </div>
-      <span class="lc-role-badge branch-badge">Branch</span>
+      <span class="lc-role-badge dg-badge">Branch</span>
     </div>
     <div class="lc-desc">National program delivery for the safe transportation of dangerous goods across Canada. Oversees risk model modernization, compliance inspection programs, and data infrastructure.</div>
     <div class="lc-meta-row">
