@@ -3,7 +3,8 @@
 const SESSION = (() => {
   try { return JSON.parse(sessionStorage.getItem("ti_session") || "null"); } catch { return null; }
 })();
-if (!SESSION) window.location.href = "/login";
+if (!SESSION) { window.location.href = "/login"; }
+else { document.body.style.visibility = "visible"; }
 const IS_TEAM = SESSION?.role === "team_member";
 
 // ─────────────────────────────────────────────────────────────────

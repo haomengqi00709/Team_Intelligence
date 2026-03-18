@@ -9,8 +9,9 @@ const PROJECT = (() => {
   try { return JSON.parse(sessionStorage.getItem("ti_project") || "null"); } catch { return null; }
 })();
 
-if (!SESSION) window.location.href = "/login";
-if (!PROJECT) window.location.href = "/dashboard";
+if (!SESSION) { window.location.href = "/login"; }
+else if (!PROJECT) { window.location.href = "/dashboard"; }
+else { document.body.style.visibility = "visible"; }
 
 const IS_TEAM = SESSION?.role === "team_member";
 
