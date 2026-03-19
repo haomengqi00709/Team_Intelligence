@@ -66,6 +66,7 @@ const AVATAR_COLORS = [
 // ── State ─────────────────────────────────────────────────────────
 let currentSources = [];
 let allFileDocs    = [];   // populated by loadFileList, used by "/" picker
+let recentFileIds  = [];   // tracks recently used file references
 let fvDocCache     = {};   // docId → fetched doc data
 let activeFileRow  = null; // currently highlighted row
 let chatHistory    = [];   // [{role, content}] — kept in memory until refresh
@@ -629,14 +630,29 @@ function handleSlashTrigger(input) {
   pickerActive   = true;
   pickerSelected = 0;
 
-  picker.innerHTML = matches.map((d, i) => {
+  // Split into recent and suggested
+  const recentMatches    = matches.filter(d => recentFileIds.includes(d.doc_id));
+  const suggestedMatches = matches.filter(d => !recentFileIds.includes(d.doc_id));
+
+  let idx = 0;
+  const renderItem = d => {
     const color = FILE_TYPE_COLORS[d.file_type] || "#94a3b8";
+    const i = idx++;
     return `<div class="fp-item${i === 0 ? " selected" : ""}" data-id="${esc(d.doc_id)}" data-idx="${i}">
       <span class="fp-item-dot" style="background:${color}"></span>
       <span class="fp-item-name">${esc(d.doc_id)}</span>
       <span class="fp-item-type">${esc((d.file_type || "").replace(/_/g, " "))}</span>
     </div>`;
-  }).join("");
+  };
+
+  let html = "";
+  if (recentMatches.length) {
+    html += `<div class="fp-section-label">Recent</div>` + recentMatches.map(renderItem).join("");
+  }
+  if (suggestedMatches.length) {
+    html += `<div class="fp-section-label">Suggested</div>` + suggestedMatches.map(renderItem).join("");
+  }
+  picker.innerHTML = html;
 
   picker.style.display = "block";
   picker.querySelectorAll(".fp-item").forEach(item => {
@@ -692,6 +708,8 @@ function selectPickerItem(docId, slashPos, input) {
   input.focus();
   input.setSelectionRange(newPos, newPos);
   hideFilePicker();
+  // track recent
+  recentFileIds = [docId, ...recentFileIds.filter(id => id !== docId)].slice(0, 5);
 }
 
 function triggerSend() {
@@ -759,6 +777,13 @@ function clearWelcome() {
   if (welcome) welcome.remove();
 }
 
+function renderUserText(text) {
+  // Replace [file: docId] with a styled chip, escape everything else
+  return text.replace(/\[file:\s*([^\]]+)\]/g, (_, id) =>
+    `<span class="msg-file-chip">${esc(id.trim())}</span>`
+  ).replace(/&(?![a-z#\d]+;)/g, "&amp;");
+}
+
 function appendMessage(role, text) {
   const wrap = document.getElementById("chatMessages");
   const div  = document.createElement("div");
@@ -766,7 +791,11 @@ function appendMessage(role, text) {
 
   const bubble = document.createElement("div");
   bubble.className = `bubble bubble--${role}`;
-  bubble.textContent = text;
+  if (role === "user") {
+    bubble.innerHTML = renderUserText(text);
+  } else {
+    bubble.textContent = text;
+  }
 
   div.appendChild(bubble);
   wrap.appendChild(div);
