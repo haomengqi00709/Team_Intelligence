@@ -148,6 +148,15 @@ def _with_project(where: dict | None, project_id: str | None) -> dict | None:
         return pid_filter
     return {"$and": [pid_filter, where]}
 
+def _with_doc(where: dict | None, doc_id: str | None) -> dict | None:
+    """Merge an existing where clause with a doc_id filter for ChromaDB."""
+    if not doc_id:
+        return where
+    doc_filter: dict = {"doc_id": doc_id}
+    if not where:
+        return doc_filter
+    return {"$and": [doc_filter, where]}
+
 
 # ── Strategy implementations ──────────────────────────────────────────────────
 
@@ -431,16 +440,17 @@ def retrieve_org_lookup(query: str, person: str | None) -> dict:
     }
 
 
-def retrieve_general(query: str, n: int, project_id: str | None = None) -> list[dict]:
+def retrieve_general(query: str, n: int, project_id: str | None = None, doc_id: str | None = None) -> list[dict]:
     """Standard top-k similarity search."""
     emb = _embed_query(query)
-    hits = _query_collection(emb, n=n * 2, where=_with_project(None, project_id))
+    where = _with_doc(_with_project(None, project_id), doc_id)
+    hits = _query_collection(emb, n=n * 2, where=where)
     return _dedupe_and_rank(hits, max_per_doc=2)[:n]
 
 
 # ── Main retrieval dispatcher ─────────────────────────────────────────────────
 
-def retrieve(query: str, classification: ClassificationResult, n: int = TOP_K, project_id: str | None = None) -> dict:
+def retrieve(query: str, classification: ClassificationResult, n: int = TOP_K, project_id: str | None = None, doc_id: str | None = None) -> dict:
     """
     Route to the correct strategy based on classification result.
     Returns: { query_type, chunks, retrieval_meta }
@@ -472,7 +482,7 @@ def retrieve(query: str, classification: ClassificationResult, n: int = TOP_K, p
     elif qt == "onboarding":
         chunks = retrieve_onboarding(query, n, project_id=project_id)
     else:
-        chunks = retrieve_general(query, n, project_id=project_id)
+        chunks = retrieve_general(query, n, project_id=project_id, doc_id=doc_id)
 
     # Summary for debugging / API response
     from collections import Counter

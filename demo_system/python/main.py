@@ -381,9 +381,19 @@ def query(q: str, n: int = 10, project_id: str | None = None):
     if stats.get("status") != "ok":
         raise HTTPException(status_code=503, detail="Index not built — POST /api/index/build first")
 
-    cl             = classify(q)
-    retrieval      = retrieve(q, cl, n=n, project_id=project_id or None)
-    response       = generate(q, retrieval)
+    # Detect [file: docId] reference — if present, force general + scope to that doc
+    from router import ClassificationResult
+    file_match = re.search(r'\[file:\s*([^\]]+)\]', q)
+    if file_match:
+        doc_id     = file_match.group(1).strip()
+        clean_q    = re.sub(r'\[file:\s*[^\]]+\]\s*', '', q).strip()
+        cl         = ClassificationResult(query_type="general", confidence="high", signals=["file_ref"], person_hint=None)
+        retrieval  = retrieve(clean_q or q, cl, n=n, project_id=project_id or None, doc_id=doc_id)
+        response   = generate(clean_q or q, retrieval)
+    else:
+        cl         = classify(q)
+        retrieval  = retrieve(q, cl, n=n, project_id=project_id or None)
+        response   = generate(q, retrieval)
     return response
 
 
