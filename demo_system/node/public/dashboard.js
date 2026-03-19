@@ -850,10 +850,10 @@ function buildTeamBlock(mgr) {
         </div>
         <div class="tb-proj-right">
           <div class="tb-proj-actions">
-            <button class="tb-proj-action-btn danger js-delete-proj">
+            ${IS_TEAM ? `<button class="tb-proj-action-btn danger js-delete-proj">
               <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="margin-right:3px;vertical-align:-1px"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14H6L5 6"/><path d="M10 11v6"/><path d="M14 11v6"/><path d="M9 6V4h6v2"/></svg>
               Delete
-            </button>
+            </button>` : ""}
             ${actionBtn}
           </div>
         </div>
